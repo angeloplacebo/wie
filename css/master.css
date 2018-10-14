@@ -1,0 +1,93 @@
+body{
+    font-family: 'Montserrat', sans-serif; 
+    overflow: auto;
+    background-image: url(../images/bg-marked.png);
+    background-color: #950bff1c;
+}
+.navbar-custom{
+    background-color:#662c92;
+}
+.navbar-nav .nav-item.nav-link{
+    padding-left: 50px;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color:initial; 
+}
+.pad{
+    padding-top: 5rem;
+    padding-bottom: 1rem;
+}
+h1{
+    padding-bottom: 2rem !important;
+}
+.slide{
+    background-color:#451d64;
+    width: 100%;
+    background-image: url(../images/bg.png);
+}
+.pad1{
+    padding-top: 2rem;
+}
+.carousel-control-prev{
+    width: 2%;
+}
+.carousel-control-next{
+    width: 2%;
+}
+h2 {
+   font-weight: bold;
+    color: #6d16af;
+}
+h5 {
+     color: #950bff;
+ }
+.list{
+    margin-left:50px;
+    margin-top:30px;
+}
+.r{
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.carousel-item img{
+    height: 500px;
+}
+.shadow-custom{
+    box-shadow: 0 1rem 3rem rgba(0,0,0,0.575)!important;
+}
+.btn-purple:hover {
+    color: #fff;
+    background-color:#950bff;
+    border-color:#a032f5;
+}
+.btn-purple-disable:hover {
+    color: #fff;
+    background-color: #4b1775;
+    border-color: #492166;
+}
+.btn-purple-disable {
+    color: #fff;
+    background-color: #2a0d41;
+    border-color: #210f2e;
+    min-width: 280px;
+}
+.btn-purple {
+    color: #fff;
+    background-color: #6d16af;
+    border-color: #701bb1;
+    min-width: 280px;
+}
+.btn.focus, .btn:focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(183, 0, 255, 0.25);
+}
+.page-footer{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-image: url(../images/bg.png);
+    background-color: #27043b;
+    color: #a254dd;
+}
+.py-3 a{
+    color: #8d2ad8
+}
