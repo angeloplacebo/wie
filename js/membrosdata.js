@@ -73,7 +73,7 @@ function insertMembros(mbs) {
             <div class="modal-body text-left">
             ${full_name}<br>
               Entrada:  ${entrada}<br>
-              Saida:    ${saida}
+              Saida:    -
             </div>
           </div>
         </div>
@@ -129,7 +129,7 @@ function insertMembros(mbs) {
                 <div class="modal-body text-left">
                 ${full_name}<br>
                   Entrada:  ${entrada}<br>
-                  Saida:    ${saida}
+                  Saida:    -
                 </div>
               </div>
             </div>
@@ -185,7 +185,7 @@ function insertMembros(mbs) {
                 <div class="modal-body text-left">
                 ${full_name}<br>
                   Entrada:  ${entrada}<br>
-                  Saida:    ${saida}
+                  Saida:    -
                 </div>
               </div>
             </div>
